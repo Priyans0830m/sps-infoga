@@ -45,7 +45,7 @@ clear
 #####################################
 banner
 echo -e "\e[4;34m  installing \e[1;32mwait few minutes \e[0m"
-#npm install -g  truecallerjs
+npm install -g  truecallerjs
 clear
 #####################################
 banner
